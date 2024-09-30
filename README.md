@@ -1,2 +1,2 @@
 # leetcode-sql
-Leetcode questions solved.
+SQL Leetcode questions solved.

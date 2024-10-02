@@ -1,4 +1,4 @@
-select w.name, w.population, w.area
-from world w
-where w.area >= 3000000
-or w.population >= 25000000
+SELECT w.name, w.population, w.area
+FROM world w
+WHERE w.area >= 3000000
+OR w.population >= 25000000
